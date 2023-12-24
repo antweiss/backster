@@ -5,6 +5,7 @@ metadata:
   description: a simple Backstage managed service
   annotations:
     backstage.io/techdocs-ref: dir:.
+    jfrog.io/pipeline-name: intro_hello_world
 spec:
   type: service
   lifecycle: production

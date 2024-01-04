@@ -9,7 +9,7 @@ metadata:
   labels:
     version: 2.3.4
   tags:
-    - "language: golang"
+    - "golang"
 spec:
   type: service
   lifecycle: production

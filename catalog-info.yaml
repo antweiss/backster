@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backster
-  description: a simple Backstage managed service
+  description: a simple Backstage managed service in golang
   annotations:
     backstage.io/techdocs-ref: dir:.
     jfrog.io/pipeline-name: intro_hello_world

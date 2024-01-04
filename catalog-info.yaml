@@ -6,6 +6,8 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     jfrog.io/pipeline-name: intro_hello_world
+  labels:
+    version: "2.3.4"
 spec:
   type: service
   lifecycle: production

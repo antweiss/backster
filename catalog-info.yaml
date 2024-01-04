@@ -8,6 +8,8 @@ metadata:
     jfrog.io/pipeline-name: intro_hello_world
   labels:
     version: 2.3.4
+  tags:
+    - "language: golang"
 spec:
   type: service
   lifecycle: production

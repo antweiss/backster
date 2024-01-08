@@ -7,6 +7,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     jfrog.io/pipeline-name: intro_hello_world
     argocd/app-name: test
+    backstage.io/kubernetes-id: backster
   labels:
     version: 2.3.4
   tags:
